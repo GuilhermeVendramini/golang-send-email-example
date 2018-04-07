@@ -18,7 +18,7 @@ $ go run main.go
 
 [gopkg.in/gomail.v2](https://gopkg.in/gomail.v2)
 
-More examples:
+# More examples:
 
 [gomail.v2](https://godoc.org/gopkg.in/gomail.v2)
 
