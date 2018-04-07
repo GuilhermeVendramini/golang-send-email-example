@@ -17,3 +17,8 @@ $ go run main.go
 [github.com/julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)
 
 [gopkg.in/gomail.v2](https://gopkg.in/gomail.v2)
+
+More examples:
+
+[gomail.v2](https://godoc.org/gopkg.in/gomail.v2)
+
