@@ -1,4 +1,4 @@
-# Golang email example
+# Golang send email example
 
 # How to use
 
